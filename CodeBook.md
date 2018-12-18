@@ -8,12 +8,12 @@ Summary of the column names in `tidy.txt`
 
 ## Activity ID
 Activity ID was transformed from the y label file using the mapping in `activity_label.txt`
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
 
 ## Measurement data 
 * `tBodyAccMeanX`
